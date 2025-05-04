@@ -1,1 +1,6 @@
 requi_id,requi_code,requi_cat,requi_text
+0,bc,g,have a cell base class
+0,bc,g,cell attribs: id,age,context,goal,role,purpose
+0,bc,g,cell can make decisions , ask user, access in memory sqlite db
+0,bc,g,cell dies at age 99 but before stores in memory to persistent sqlite file with cell<cell_id>.db as name
+0,bc,g,global ticker which calls tick for each cell
